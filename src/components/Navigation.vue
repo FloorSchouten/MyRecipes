@@ -23,8 +23,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
-@import "../scss/_variables.scss";
+<style >
 
 ul {
   display: flex;
@@ -39,7 +38,7 @@ li {
   text-decoration-style: none;
 }
 .isActive {
-  color: $link-color-active;
+  color: pink;
 }
 .nav-link {
   text-decoration: none;
@@ -48,6 +47,6 @@ li {
   text-decoration: underline;
 }
 .nav-link:active {
-  color: $primary;
+  color: purple;
 }
 </style>

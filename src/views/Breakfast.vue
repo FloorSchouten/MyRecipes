@@ -15,8 +15,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
-@import "../scss/_variables.scss";
+<style>
 
 .page {
   border-radius: 2px solid green;

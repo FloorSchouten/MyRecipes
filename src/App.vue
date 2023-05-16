@@ -14,14 +14,13 @@ export default {
 };
 </script>
 
-<style lang="scss">
-@import "./scss/_variables.scss";
+<style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: $primary;
+  color: black;
   margin-top: 60px;
 }
 </style>
