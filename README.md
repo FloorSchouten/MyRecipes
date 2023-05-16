@@ -1,4 +1,4 @@
-# t
+# MyRecipes is a VUE3 app with vue-router
 
 ## Project setup
 ```
